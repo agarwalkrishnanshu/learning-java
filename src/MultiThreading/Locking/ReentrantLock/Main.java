@@ -1,6 +1,4 @@
-package MultiThreading.ReentrantLock;
-
-import MultiThreading.ProducerConsumerProblem.SharedQueue;
+package MultiThreading.Locking.ReentrantLock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
